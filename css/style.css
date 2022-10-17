@@ -7,7 +7,7 @@ body{
 .faixaBranca{
   position: absolute;
   background-color: white;
-  height: 150px;
+  height: 165px;
   margin-top: 60px;
   z-index: -2;
 }
