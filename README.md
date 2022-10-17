@@ -1,3 +1,3 @@
 # Projeto Santa Casa
 
-Projeto de cópia do site da Santa Casa de Taquaritinga/SP.
+Projeto de cópia do site de redirecionamento da Santa Casa de Taquaritinga/SP.
